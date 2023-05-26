@@ -10,5 +10,7 @@ module required:
   
   3.)BeautifulSoup
   
+  4.)mysql-connector-python
+  
   # Note
     pip install <module name>
