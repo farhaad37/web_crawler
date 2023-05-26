@@ -4,8 +4,10 @@ this is simple and purely basic web crawler which collects data such as articles
 # Requirements
 module required:
   1.)requests
+  
   2.)subprocess
+  
   3.)BeautifulSoup
-  # note
-    you can download all the url from the terminal by giving command:
-          # pip install <module name>
+  
+  # Note
+    pip install <module name>
