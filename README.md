@@ -10,5 +10,5 @@ module required:
   
   3.)BeautifulSoup
   
-  # Notes
+  # Note
     pip install <module name>
