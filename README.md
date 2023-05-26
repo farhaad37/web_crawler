@@ -3,11 +3,12 @@ this is simple and purely basic web crawler which collects data such as articles
 
 # Requirements
 module required:
+
   1.)requests
   
   2.)subprocess
   
   3.)BeautifulSoup
   
-  # Note
+  # Notes
     pip install <module name>
