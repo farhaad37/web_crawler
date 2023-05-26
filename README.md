@@ -5,7 +5,7 @@ this is simple and purely basic web crawler which collects data such as articles
 module required:
 
   1.)requests
-  
+       
   2.)subprocess
   
   3.)BeautifulSoup
